@@ -33,3 +33,12 @@ Browsers and iPhone web apps cannot guarantee reminders after the app is fully c
 安卓请下载 APK 并覆盖安装旧版，不要先卸载。已有同步服务无需重新部署云函数，也不要更换同步密钥。
 
 浏览器和 iPhone 网页应用完全关闭后不能保证准时提醒；重要事项建议加入系统日历。本应用不收软件订阅费，网盘按钮只用于手动备份，不会自动合并设备数据。
+
+## 支持作者
+
+如果这些项目对你有帮助的话，给个star吧~也可以投喂作者一杯奶茶（比心）
+
+<p>
+  <a href="assets/donate/alipay.jpg"><img src="assets/donate/alipay.jpg" alt="支付宝收款码" width="300"></a>
+  <a href="assets/donate/wechat.jpg"><img src="assets/donate/wechat.jpg" alt="微信收款码" width="300"></a>
+</p>
